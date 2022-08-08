@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandana-m-62a411206/)](https://www.linkedin.com/in/vandana-m-62a411206//)
+[![Linkedin Badge](https://img.shields.io/badge/-Vandana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandana-m-62a411206/)](https://www.linkedin.com/in/vandana-m-62a411206//)
 
 I'm
 Front-end Developer
@@ -8,7 +8,7 @@ The crossover between design and programming has always been of interest to me, 
 
 Languages and Tools: 
 
- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/JS-Javascript-blue?style=flat-square"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>  
+ <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/JS-Javascript-blue?style=flat-square"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>  
  
 <!--
 **Vandanadeveloper/Vandanadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
